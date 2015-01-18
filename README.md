@@ -11,3 +11,4 @@ This follows the basic template, plus a few extras:
 * Some method factoring to make the event handlers simpler to read
 
 ## Walkthrough
+![Video Walkthrough](demo.gif)
